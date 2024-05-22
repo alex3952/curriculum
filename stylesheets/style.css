@@ -1,0 +1,78 @@
+@import
+url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+* {
+    font-family: Arial, sans-serif;
+}
+
+.titulo {
+    font-family: Times New Roman, serif;
+}
+
+h1 {
+    font-family: Georgia, serif;
+}
+    
+h1, h2, h3 {
+    font-family: Roboto;
+}
+
+#informacion-personal {
+    background-color: #b3e0dc;
+}
+#informacion-personal #texto {
+    color: #3d7a7b;
+}
+
+section {
+    margin: 20px;
+}
+
+section {
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+
+#informacion-personal {
+    margin: 2px 1px 1.5px;
+    margin-top: 0.8rem;
+    border: 2pt solid black;
+    padding: 2% 1.2%;
+    box-shadow: 
+   rgba(0, 0, 0, 0.25) 0px 54px 55px, 
+   rgba(0, 0, 0, 0.12) 0px -12px 30px, 
+   rgba(0, 0, 0, 0.12) 0px 4px 6px,
+   rgba(0, 0, 0, 0.17) 0px 12px 13px, 
+   rgba(0, 0, 0, 0.09) 0px -3px 5px;    
+}
+
+#educacion {
+    margin: 2px 1px 1.5px;
+    margin-top: 0.8rem;
+    border: 2pt solid black;
+    padding: 2% 1.2%;
+    box-shadow: 
+   rgba(0, 0, 0, 0.25) 0px 54px 55px, 
+   rgba(0, 0, 0, 0.12) 0px -12px 30px, 
+   rgba(0, 0, 0, 0.12) 0px 4px 6px,
+   rgba(0, 0, 0, 0.17) 0px 12px 13px, 
+   rgba(0, 0, 0, 0.09) 0px -3px 5px;    
+}
+
+#habilidades {
+    margin: 2px 1px 1.5px;
+    margin-top: 0.8rem;
+    border: 2pt solid black;
+    padding: 2% 1.2%;
+    box-shadow: 
+   rgba(0, 0, 0, 0.25) 0px 54px 55px, 
+   rgba(0, 0, 0, 0.12) 0px -12px 30px, 
+   rgba(0, 0, 0, 0.12) 0px 4px 6px,
+   rgba(0, 0, 0, 0.17) 0px 12px 13px, 
+   rgba(0, 0, 0, 0.09) 0px -3px 5px;    
+}
+    
+    
+        
