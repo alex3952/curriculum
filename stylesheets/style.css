@@ -57,8 +57,22 @@ th, td {
     color: #023546;
 }
 
+#formulario {
+    background-color: #a1eef6;
+}
+#formulario #texto {
+    color: #023546;
+}
+
 section {
     margin: 20px;
+}
+
+iframe {
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left: 20px;
 }
 
 section {
@@ -119,12 +133,34 @@ section {
    rgba(0, 0, 0, 0.17) 0px 12px 13px, 
    rgba(0, 0, 0, 0.09) 0px -3px 5px;    
 }
+
+#formulario {
+    margin: 2px 1px 1.5px;
+    margin-top: 0.8rem;
+    border: 2pt solid black;
+    padding: 2% 1.2%;
+    box-shadow: 
+   rgba(0, 0, 0, 0.25) 0px 54px 55px, 
+   rgba(0, 0, 0, 0.12) 0px -12px 30px, 
+   rgba(0, 0, 0, 0.12) 0px 4px 6px,
+   rgba(0, 0, 0, 0.17) 0px 12px 13px, 
+   rgba(0, 0, 0, 0.09) 0px -3px 5px;    
+}
     
-div {
+#division {
     display: grid;
     row-gap: 0.5rem; 
     column-gap: 0.5rem; 
     grid-template-columns: repeat(2, 1fr); 
 }
+
+#Experiencia-laboral{
+    display: grid;
+    row-gap: 0.5rem; 
+    column-gap: 0.5rem; 
+    grid-template-columns: repeat(3, 1fr); 
+    align-items: center;
+}
+
 
         
